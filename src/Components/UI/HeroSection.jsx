@@ -1,4 +1,6 @@
 import React from 'react'
+import HeroImg from '../../assets/Hero-img.png'
+// import HeroImg from '../../../public/Images/Hero-img.png'
 
 const HeroSection = () => {
   return (
@@ -9,7 +11,7 @@ const HeroSection = () => {
         <button className='px-6 py-2 rounded-lg border border-white text-sm flex flex-row gap-2 justify-center items-center'>Start Exploring <i class="fa-solid fa-arrow-right"></i></button>
       </div>
       <div className="hero-right md:w-6/12 ">
-        <img src="/Images/Hero-img.png" alt="Hero-img" />
+         <img src={HeroImg} alt="" />
       </div>
     </div>
   )
