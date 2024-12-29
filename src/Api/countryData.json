@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 125.7,
+      "interestingFact": "Japan has more than 6,800 islands."
+    },
+    {
+      "id": 2,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38.2,
+      "interestingFact": "Canada has the longest coastline in the world."
+    },
+    {
+      "id": 3,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 26.0,
+      "interestingFact": "Australia is home to the Great Barrier Reef."
+    },
+    {
+      "id": 4,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 216.4,
+      "interestingFact": "Brazil is the largest producer of coffee in the world."
+    },
+    {
+      "id": 5,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1406.6,
+      "interestingFact": "India is the world's largest democracy."
+    },
+    {
+      "id": 6,
+      "countryName": "China",
+      "capital": "Beijing",
+      "population": 1412.4,
+      "interestingFact": "China has the world's largest population."
+    },
+    {
+      "id": 7,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 109.3,
+      "interestingFact": "Egypt is home to the Great Pyramid of Giza."
+    },
+    {
+      "id": 8,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67.7,
+      "interestingFact": "France is the most visited country in the world."
+    },
+    {
+      "id": 9,
+      "countryName": "South Africa",
+      "capital": "Pretoria",
+      "population": 60.0,
+      "interestingFact": "South Africa has three capital cities."
+    },
+    {
+      "id": 10,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 144.1,
+      "interestingFact": "Russia is the largest country in the world by land area."
+    }
+  ]
