@@ -13,10 +13,10 @@ const Headers = () => {
       </NavLink>
       <div className={`mobile-nav-items`}>
         <ul className={`inset-0 w-screen p-4  bg-stone-800 flex gap-4 flex-col absolute top-14 left-0 ${isOpenMenu ? "flex" : "hidden"}`}>
-        <li><NavLink className='hover:underline underline-offset-8 text-white font-semibold text-xl' to='/'>Home</NavLink></li>
-        <li><NavLink className='hover:underline underline-offset-8 text-white font-semibold text-xl' to='About'>About</NavLink></li>
-          <li><NavLink className='hover:underline underline-offset-8 text-white font-semibold text-xl' to='Country'>Country</NavLink></li>
-          <li><NavLink className='hover:underline underline-offset-8 text-white font-semibold text-xl' to='Contact'>Contact</NavLink></li>
+        <li><NavLink target='blank' className='hover:underline underline-offset-8 text-white font-semibold text-xl' to='/'>Home</NavLink></li>
+        <li><NavLink target='blank' className='hover:underline underline-offset-8 text-white font-semibold text-xl' to='About'>About</NavLink></li>
+          <li><NavLink target='blank' className='hover:underline underline-offset-8 text-white font-semibold text-xl' to='Country'>Country</NavLink></li>
+          <li><NavLink target='blank' className='hover:underline underline-offset-8 text-white font-semibold text-xl' to='Contact'>Contact</NavLink></li>
           </ul>
           </div>
       <div className={`pc-nav-items`}>
